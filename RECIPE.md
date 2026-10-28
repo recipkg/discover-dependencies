@@ -5,7 +5,7 @@ format = "recipkg/1"
 
 [package]
 name = "discover-dependencies"
-version = "0.1.0"
+version = "0.1.1"
 kind = "skill"
 description = "分析软件配方的能力需求与已有依赖，发现缺失配方、接口冲突和外部运行前提。用于发现依赖、评估候选软件或检查递归重建材料是否完整。"
 entry = "SKILL.md"
